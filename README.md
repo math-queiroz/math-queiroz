@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/math-queiroz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-queiroz&layout=compact&locale=pt-br&border_radius=0&hide_border=true&theme=apprentice"></img><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-queiroz&layout=compact&theme=github_dark"></img><br>
   </a>
   <br/>
   <!-- 
