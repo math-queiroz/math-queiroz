@@ -1,21 +1,21 @@
-<h3 align="center"><samp>👋 Olá, me chamo <b><!-- <a rel="nofollow noopener noreferrer" target="_blank" href="https://math-queiroz.github.io/homepage"> -->Matheus<!-- </a> --></b></samp></h3>
-
-<p align="center"><samp>/* 𝙰𝚗𝚊𝚕𝚒𝚜𝚝𝚊 𝚎 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 */</samp></p>
+👋 Hello there fellow wanderer! Welcome to my profile...
+---
+I'm Matheus - a systems analyst/developer, interested in tech stuff and programming in general. I've been working with and learning more 
+about clusters lately. I'm always working on some random project and exploring new languages and tools on my free time...
 
 <p align="center">
-  <a href="https://github.com/math-queiroz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-queiroz&layout=compact&theme=github_dark"></img><br>
-  </a>
-  <br/>
-  <!-- 
-  <a href="https://github.com/math-queiroz">
-    <img alt="Anos de Atividade" src="https://badges.pufler.dev/years/math-queiroz?label=Anos%20de%20Atividade&style=flat-square">
-  </a>
-  <a href="https://github.com/math-queiroz?tab=repositories">
-    <img alt="Repositórios" src="https://badges.pufler.dev/repos/math-queiroz?label=Reposit%C3%B3rios&style=flat-square">
-  </a>
-  -->
-  <a href="https://github.com/math-queiroz/math-queiroz">
-    <img alt="Perfil Atualizado" href="" src="https://img.shields.io/github/last-commit/math-queiroz/math-queiroz?label=Perfil%20Atualizado&style=flat-square">
-  </a>
+  <picture><img alt="tech_stack" href="" src="https://skillicons.dev/icons?i=js,css,html,git,nodejs,react,ts,py,vscode,linux,raspberrypi,neovim,lua,rust,docker,kubernetes&perline=8" /></picture>
+  <br><br>
+  <picture><img alt="years" src="https://badges.pufler.dev/years/math-queiroz?label=years&style=flat-square" href="" /></picture>
+  <picture><img alt="repos" src="https://badges.pufler.dev/repos/math-queiroz?label=repos&style=flat-square" href="" /></picture>
+  <picture><img alt="last_commit" href="" src="https://img.shields.io/github/last-commit/math-queiroz/math-queiroz?style=flat-square" href="" /></picture>
 </p>
+
+<details>
+  <summary><b>Github Stats</b></summary>
+  <br>
+  <p align="center">
+    <picture><img src="https://streak-stats.demolab.com?user=math-queiroz&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" height="165px" /></picture>
+    <picture><img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-queiroz&layout=compact&theme=dark&hide_border=true" /></picture>
+  </p>
+</details>
