@@ -6,9 +6,11 @@ about Kubernetes lately. Furthermore, I'm always working on some random personal
 <p align="center">
   <img alt="tech_stack" href="" src="https://skillicons.dev/icons?i=js,css,html,git,nodejs,react,ts,py,vscode,linux,raspberrypi,neovim,lua,rust,docker,kubernetes&perline=8" />
   <br><br>
-  <img alt="years" src="https://badges.pufler.dev/years/math-queiroz?label=years&style=flat-square" />
-  <img alt="repos" src="https://badges.pufler.dev/repos/math-queiroz?label=repos&style=flat-square" />
-  <img alt="last_commit" href="" src="https://img.shields.io/github/last-commit/math-queiroz/math-queiroz?style=flat-square" />
+  <!-- <img alt="years" src="https://badges.pufler.dev/years/math-queiroz?label=years&style=flat-square" /> -->
+  <!-- <img alt="repos" src="https://badges.pufler.dev/repos/math-queiroz?label=repos&style=flat-square" /> -->
+  <img alt="profile_updated" href="" src="https://img.shields.io/github/last-commit/math-queiroz/math-queiroz?label=updated%20in&style=flat-square" />
+  <img alt="profile_stars" href="" src="https://img.shields.io/github/stars/math-queiroz?style=flat-square" />
+  <img alt="profile_followers" href="" src="https://img.shields.io/github/followers/math-queiroz?style=flat-square" />
 </p>
 
 <details>
