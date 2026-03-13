@@ -3,7 +3,7 @@
 I'm Matheus — a Systems Analyst/Developer, interested in technology and programming in general. I've been working with and learning more about Kubernetes lately. In addition, I'm always working on random personal projects and exploring new languages and tools in my free time.
 
 <p align="center">
-  <img alt="tech_stack" href="" src="https://skillicons.dev/icons?i=js,css,html,git,nodejs,react,ts,py,vscode,linux,raspberrypi,neovim,lua,rust,docker,kubernetes&perline=8" />
+  <img alt="tech_stack" href="" src="https://skillicons.dev/icons?i=js,git,rust,html,css,docker,ts,kubernetes,vscode,linux,raspberrypi,neovim,lua,nodejs,react,py&perline=8" />
   <br><br>
   <!-- <img alt="years" src="https://badges.pufler.dev/years/math-queiroz?label=years&style=flat-square" /> -->
   <!-- <img alt="repos" src="https://badges.pufler.dev/repos/math-queiroz?label=repos&style=flat-square" /> -->
