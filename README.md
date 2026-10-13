@@ -1,6 +1,6 @@
 👋 Hello there, fellow wanderer! Welcome to my profile...
 ---
-I'm Matheus — a Systems Analyst/Developer, interested in technology and programming in general. I've been working with and learning more about Kubernetes lately. In addition, I'm always working on random personal projects and exploring new languages and tools in my free time.
+I'm Matheus — a Systems Analyst/Developer, interested in technology and programming in general. I've been working with and learning more about Kubernetes lately. I'm always working on random personal projects and exploring new languages and tools in my free time
 
 
 <p align="center">
