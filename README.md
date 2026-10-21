@@ -9,7 +9,7 @@ I'm Matheus — a Systems Analyst/Developer, interested in technology and progra
     <!-- <img alt="years" src="https://badges.pufler.dev/years/math-queiroz?label=years&style=flat-square" /> -->
     <!-- <img alt="repos" src="https://badges.pufler.dev/repos/math-queiroz?label=repos&style=flat-square" /> -->
     <a href="#"><img alt="profile_updated" href="" src="https://img.shields.io/github/last-commit/math-queiroz/math-queiroz?label=updated%20in&style=flat-square" /></a>
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=math-queiroz&label=views&color=0e75b6&style=flat" alt="math-queiroz" /></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=math-queiroz&label=views&color=0e75b6&abbreviated=true&style=flat-square" alt="math-queiroz" /></a>
     <a href="#"><img alt="profile_stars" href="" src="https://img.shields.io/github/stars/math-queiroz?style=flat-square" /></a>
     <a href="#"><img alt="profile_followers" href="" src="https://img.shields.io/github/followers/math-queiroz?style=flat-square" /></a>
 </p>
